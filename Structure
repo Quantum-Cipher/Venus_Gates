@@ -1,0 +1,5 @@
+venus-gate/
+├── ritual_gate.sh           # Executable Bash script (the core gate logic)
+├── eternal_shell.log        # Auto-generated log for failed ritual entries
+├── README.md                # Already in place
+└── .gitignore               # To avoid pushing shell logs
